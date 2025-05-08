@@ -1,0 +1,42 @@
+body {
+    background-color: dimgrey;
+    font: size 100;%
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+}
+
+.caixinha{
+    background-color: rgb(34, 58, 91);
+    padding: 20px 20px;
+    border-radius: 50px;
+    box-shadow: 0 0 10px rgb(185, 235, 5);
+    width: 300px;
+}
+
+input {
+
+    padding: 10px;
+    width: 70%;
+   margin-right: 10px;
+}
+
+button {
+    padding: 10px;
+    cursor: pointer;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin-top: 20px;
+ }
+
+ li {
+    padding: 10px;
+    background-color: darkslategray;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+ }
+
